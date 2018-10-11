@@ -12,7 +12,7 @@ function yourAnimal() {
   var animal = "cat";
   return animal;
 }
-yourAnimal();
+yourAnimal(animal);
 
 function add2(n) {
   return n + two
